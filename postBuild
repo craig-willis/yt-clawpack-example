@@ -1,0 +1,2 @@
+# Downgrade setuptools before installing clawpack
+pip install clawpack==5.6.0
